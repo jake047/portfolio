@@ -15,6 +15,24 @@ This was created using a function built into Spyder (programming software) calle
 This allowed me to create a sketch of the court, which then shows the official shot chart for each selected player.
 This project is a great gateway into the realm of data science because it includes accessing data, programming, and representing it visually.
 
+
+PROJECT 2: Connecting to an API
+
+In project 2 ny team and I connected to multiple music streaming API's. The streaming service I choose is called Deezer.
+I focuesed on getting the top 50 songs off of their charts. This allowed me to gain information such as
+Track title, artist name, the album the track is from, and a link to the artist profile page. 
+This information was then stored in an online database using MYSQL. From there my team and I designed a website
+that would display the data we had stored. The site allowed you to look search for a song and find other information about it.
+Unfortuanatley the online database has been deactivated since we finished the project, which means the website is offline as well.
+Nonetheless, I am able to show that I could connect to the API and retrieve information for our project.
+
+What is an API? 
+"API is the acronym for Application Programming Interface, which is a software intermediary that allows two applications to talk to each other. Each time you use an app like Facebook, send an instant message, or check the weather on your phone, you’re using an API." 
+from: https://www.mulesoft.com/resources/api/what-is-an-api
+
+PROJECT 3: 
+
+
 VOSviewer is a software tool for creating maps based on network data and for
 visualizing and exploring these maps. 
 
