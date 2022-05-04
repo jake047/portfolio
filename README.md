@@ -3,6 +3,7 @@
 Capstone Portfolio
 Data Science / Software Engineering Projects
 
+
 PROJECT 1: NBA Shot Chart
 
 The first project in this portfolio is the shot chart of NBA players.
@@ -42,4 +43,7 @@ Although VOSviewer is intended primarily for analyzing bibliometric networks, it
 can in fact be used to create, visualize, and explore maps based on any type of
 network data.
 
+For this project I extracted data from excel and plugged it in to the software VosViewer. With this data,
+I had the ability to create visual representations of scientifical journals. In this project, I included common keywords,
+most relavant authors, and most used journals.
 
