@@ -29,5 +29,5 @@ For this project I extracted data from excel and plugged it into the software Vo
 
 
 Jacob Petrosh
-petroshjake@hotmail.com
-609-705-3878
+Email: petroshjake@hotmail.com
+LinkedIn: https://www.linkedin.com/in/jacob-petrosh-278630192/
