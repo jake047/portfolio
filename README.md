@@ -8,6 +8,7 @@ I am a Sports Communication & Media major along with Computing and Informatics m
 
 ORGANIZATION INTEREST:
 Harris Blitzer Sports Entertainment
+https://www.hbse.com/
 
 POSITION INTEREST:
 Sport and Data Scientist
