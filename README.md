@@ -3,6 +3,14 @@
 Capstone Portfolio
 Data Science / Software Engineering Projects
 
+ABOUT ME:
+I am a Sports Communication & Media major along with Computing and Informatics major at Rowan Univeristy
+
+ORGANIZATION INTEREST:
+Harris Blitzer Sports Entertainment
+
+POSITION INTEREST:
+Sport and Data Scientist
 
 PROJECT 1: NBA Shot Chart
 
