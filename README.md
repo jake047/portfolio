@@ -1,12 +1,7 @@
-# portfolio
-
-Capstone Portfolio
-Data Science / Software Engineering Projects
-
 ABOUT ME:
 I am a Sports Communication & Media major along with Computing and Informatics major at Rowan Univeristy
 
-ORGANIZATION INTEREST:
+ORGANIZATION:
 Harris Blitzer Sports Entertainment
 https://www.hbse.com/
 
